@@ -1,6 +1,7 @@
 Hi 👋 My name is Toni Naldi
 ---
-Student at Oteria Cyber School & Cybersecurity consultant and trainer at Serval-Concept
+Student at Oteria Cyber School
+Cybersecurity consultant and trainer at Serval-Concept
 ---
 - 🌍  I'm based in Maubeuge, France
 - ✉️  You can contact me at [naldi.toni@gmail.com](mailto:naldi.toni@gmail.com)
