@@ -1,11 +1,9 @@
 Hi 👋 My name is Toni Naldi
 ---
-Student at Oteria Cyber School <br>
-Cybersecurity consultant and trainer at Serval-Concept
+Trainer (cyber, devsecops, and more) and Web dev at Deveka (my very own company!)
 ---
 - 🌍  I'm based in Maubeuge, France
 - ✉️  You can contact me at [naldi.toni@gmail.com](mailto:naldi.toni@gmail.com)
-- 🧠  I'm learning Angular and Buffer Overflows
 
 ### Skills
 
